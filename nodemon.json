@@ -4,7 +4,7 @@
      "DB_USER": "diegolucasjay",
      "DB_PASSWORD": "elbN2ZioU5TLqaaZ",
      "DB_NAME":"mern",
-     "REACT_APP_BACKEND_URL":"http://localhost:5000/"
+     "REACT_APP_BACKEND_URL":"https://four205f5-01-04-backend.onrender.com/"
      
     }
 }
