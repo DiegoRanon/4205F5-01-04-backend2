@@ -1,0 +1,11 @@
+{
+     "env": {
+
+     "DB_USER": "diegolucasjay",
+     "DB_PASSWORD": "elbN2ZioU5TLqaaZ",
+     "DB_NAME":"mern",
+     "REACT_APP_BACKEND_URL":"http://localhost:5000/"
+     
+    }
+}
+    
