@@ -41,7 +41,7 @@ app.use((error, requete, reponse, next) => {
 });
 
 mongoose
-.connect(`mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASSWORD}@${process.env.DB_PASSWORD}.rrmqgpc.mongodb
+.connect(`mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASSWORD}@cluster0.f6f9zcc.mongodb
 .net/?retryWrites=true&w=majority`)
 .then(() => {
     app.listen(5000)
